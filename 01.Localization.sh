@@ -1,6 +1,6 @@
 ## 01. Localization(Hangul)
 
-AUTOSET_HOME=/home/pi/RetroPie-AutoSet
+AUTOSET_HOME=/home/pi/Retro-AutoSet
 FONT_HANGUL='NanumGothicCoding-Bold.ttf'
 
 # Get Current Theme
