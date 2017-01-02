@@ -46,7 +46,7 @@ echo ""
 echo "3초 후 게임 BIOS를 설치 합니다."
 sleep 3
 sudo cp ./BIOS/*.* /home/pi/RetroPie/BIOS/
-chmod 755 *.bin
+chmod 755 /home/pi/RetroPie/BIOS/*.bin
 echo "모든 설치가 완료 되었습니다. 적용을 위해 10초 후 재부팅 합니다."
 sleep 10
 reboot
