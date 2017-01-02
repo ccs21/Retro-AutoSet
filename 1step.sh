@@ -1,9 +1,3 @@
-sudo apt-get install fonts-nanum
-Sleep 1
-echo "한글 폰트를 설치 했습니다."
-echo ""
-echo "3초 후 테마 한글화를 실행 합니다."
-sleep 3
 cd /home/pi/Retro-AutoSet
 chmod 755 *sh
 ./01.Localization.sh
