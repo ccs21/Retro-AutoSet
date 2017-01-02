@@ -26,5 +26,14 @@ echo "3초 후 Samba 설정을 실행 합니다."
 sleep 3
 ./04.Samba.sh
 sleep 1
+echo "Samba 설정이 완료 되었습니다."
+echo ""
+echo "3초 후 Kodi PVR을 설치 합니다."
+echo "Y/N을 묻는 화면이 나온다면 Y를 눌러 주세요."
+sleep 3
+sudo apt-get install kodi-pvr* 
+echo "PVR 설치가 완료 되었습니다."
+echo ""
+echo "3초 후 Kodi IP TV Simple 을 설치 합니다."
+sleep 3
 
-echo "Basic Setting Complete"
