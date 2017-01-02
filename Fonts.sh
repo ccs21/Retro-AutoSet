@@ -1,4 +1,5 @@
-chmod 755 *.sh
+cd /home/pi/Retro-AutoSet
+chmod 755 *sh
 sleep 1
 sudo apt-get install fonts-nanum
 Sleep 1
