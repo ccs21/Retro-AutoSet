@@ -1,0 +1,724 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tv source-info-name="neo365" generator-info-name="EPG Exportor" generator-info-url="http://epg.neo365.net">
+  <channel id="TV.KR.CS.001">
+    <display-name>9colors</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/TV.KR.CS.001.png" />
+  </channel>
+  <channel id="1">
+    <display-name>MBC(지상파/종편)</display-name>
+    <display-name>[1]MBC(지상파/종편)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/122.png" />
+  </channel>
+  <channel id="2">
+    <display-name>KBS1(지상파/종편)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/110.png" />
+  </channel>
+  <channel id="3">
+    <display-name>KBS2(지상파/종편)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/111.png" />
+  </channel>
+  <channel id="4">
+    <display-name>SBS(지상파/종편)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/164.png" />
+  </channel>
+  <channel id="5">
+    <display-name>EBS(지상파/종편)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/60.png" />
+  </channel>
+  <channel id="6">
+    <display-name>EBS2</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/61.png" />
+  </channel>
+  <channel id="7">
+    <display-name>JTBC(지상파/종편)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/97.png" />
+  </channel>
+  <channel id="8">
+    <display-name>MBN(지상파/종편)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/129.png" />
+  </channel>
+  <channel id="9">
+    <display-name>채널A(지상파/종편)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/281.png" />
+  </channel>
+  <channel id="10">
+    <display-name>TV조선(지상파/종편)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/208.png" />
+  </channel>
+  <channel id="11">
+    <display-name>연합뉴스(지상파/종편)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/268.png" />
+  </channel>
+  <channel id="12">
+    <display-name>YTN(지상파/종편)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/218.png" />
+  </channel>
+  <channel id="13">
+    <display-name>OBS(지상파/종편)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/149.png" />
+  </channel>
+  <channel id="14">
+    <display-name>SBSCNBC(지상파/종편)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/165.png" />
+  </channel>
+  <channel id="15">
+    <display-name>롯데홈쇼핑</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/238.png" />
+  </channel>
+  <channel id="16">
+    <display-name>TVN</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/207.png" />
+  </channel>
+  <channel id="17">
+    <display-name>ONSTYLE</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/154.png" />
+  </channel>
+  <channel id="18">
+    <display-name>OLIVE</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/148.png" />
+  </channel>
+  <channel id="19">
+    <display-name>XTM</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/216.png" />
+  </channel>
+  <channel id="20">
+    <display-name>슈퍼액션(영화/시리즈)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/196.png" />
+  </channel>
+  <channel id="21">
+    <display-name>OCN(영화/시리즈)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/151.png" />
+  </channel>
+  <channel id="22">
+    <display-name>PLAYY웰메이드(영화)</display-name>
+    <icon src="http://pimang.net/admin/data/push/28572323_8867.jpg" />
+  </channel>
+  <channel id="23">
+    <display-name>PLAYY프리미엄(영화)</display-name>
+    <icon src="http://img.pooq.co.kr/BMS/ChannelImg/PLAYYprime_730x411.jpg" />
+  </channel>
+  <channel id="24">
+    <display-name>THE MOVIE</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/201.png" />
+  </channel>
+  <channel id="25">
+    <display-name>채널차이나(영화/드라마)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/286.png" />
+  </channel>
+  <channel id="26">
+    <display-name>케이블TV VOD</display-name>
+    <icon src="http://static.skylife.co.kr/upload/channel/201507/channel_logo_moviechoice.gif" />
+  </channel>
+  <channel id="27">
+    <display-name>드라마방송(드라마)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/230.png" />
+  </channel>
+ <channel id="28">
+    <display-name>CHING(드라마)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/280.png" />
+  </channel>
+  <channel id="29">
+    <display-name>아시아N(아시아드라마)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/8.png" />
+  </channel>
+  <channel id="30">
+    <display-name>Mnet(음악)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/121.png" />
+  </channel>
+  <channel id="31">
+    <display-name>아이넷 TV(성인가요)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/92.png" />
+  </channel>
+  <channel id="32">
+    <display-name>(음악)</display-name>
+    <icon src="http://static.skylife.co.kr/upload/channel/201605/logo_C-Music.png" />
+  </channel>
+  <channel id="33">
+    <display-name>MBCEVERYONE(연예)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/123.png" />
+  </channel>
+  <channel id="34">
+    <display-name>ETN (연예전문채널)</display-name>
+    <icon src="http://cfile237.uf.daum.net/image/260BB33E564ABBF70FB25F" />
+  </channel>
+  <channel id="35">
+    <display-name>C`TIME(예능)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/26.png" />
+  </channel>
+  <channel id="36">
+    <display-name>런닝맨모음(예능)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/ko/thumb/8/85/%EB%9F%B0%EB%8B%9D%EB%A7%A8_%EB%A1%9C%EA%B3%A0.svg/417px-%EB%9F%B0%EB%8B%9D%EB%A7%A8_%EB%A1%9C%EA%B3%A0.svg.png" />
+  </channel>
+  <channel id="37">
+    <display-name>채널A플러스(연예)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/282.png" />
+  </channel>
+  <channel id="38">
+    <display-name>에이핑크뉴스(연예)</display-name>
+    <icon src="http://pimang.net/admin/data/push/4150340_7078.jpg" />
+   </channel>
+   <channel id="39">
+    <display-name>CMCTV(오락채널)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/43.png" />
+  </channel>
+  <channel id="40">
+    <display-name>TRENDY TV(예능)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/203.png" />
+  </channel>
+  <channel id="41">
+    <display-name>KBS World</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/108.png" />
+  </channel>
+  <channel id="42">
+    <display-name>KBS World</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/108.png" />
+  </channel>
+  <channel id="43">
+    <display-name>동아TV</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/229.png" />
+  </channel>
+  <channel id="44">
+    <display-name>리얼TV</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/160.png" />
+  </channel>
+  <channel id="45">
+    <display-name>엣지 TV</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/62.png" />
+  </channel>
+  <channel id="46">
+    <display-name>OBS W(다큐)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/150.png" />
+  </channel>
+  <channel id="47">
+    <display-name>마운틴TV</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/133.png" />
+  </channel>
+  <channel id="48">
+    <display-name>Food TV</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/73.png" />
+  </channel>
+  <channel id="49">
+    <display-name>쿠키건강TV</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/294.png" />
+  </channel>
+  <channel id="50">
+    <display-name>레시피 코리아(요리)</display-name>
+    <icon src="http://pimang.net/admin/data/push/83116062_3613.jpg" />
+  </channel>
+  <channel id="51">
+    <display-name>아리랑TV(글로벌)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/263.png" />
+  </channel>
+  <channel id="52">
+    <display-name>YTN science(과학)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/219.png" />
+  </channel>
+  <channel id="53">
+    <display-name>ARTE아르떼(문화예술)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/6.png" />
+  </channel>
+  <channel id="53">
+    <display-name>TV IS</display-name>
+    <icon src="http://pimang.net/admin/data/push/1872102_3739.jpg" />
+  </channel>
+  <channel id="54">
+    <display-name>FTV(낚시)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/78.png" />
+  </channel>
+  <channel id="55">
+    <display-name>폴라리스(여행)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/302.png" />
+  </channel>
+  <channel id="56">
+    <display-name>ONT(레저/다큐)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/156.png" />
+  </channel>
+  <channel id="57">
+    <display-name>리빙 TV(레저)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/239.png" />
+  </channel>
+  <channel id="58">
+    <display-name>EVENT TV</display-name>
+    <icon src="http://pimang.net/admin/data/push/93300618_2879.jpg" />
+  </channel>
+  <channel id="59">
+    <display-name>소비자TV(생활정보)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/256.png" />
+  </channel>
+  <channel id="60">
+    <display-name>EVENT TV</display-name>
+    <icon src="http://pimang.net/admin/data/push/93300618_2879.jpg" />
+  </channel>
+  <channel id="61">
+    <display-name>대한민국 클린 콘텐츠</display-name>
+    <icon src="http://pimang.net/admin/data/push/46718607_3887.jpg" />
+  </channel>
+  <channel id="62">
+    <display-name>MBC스포츠2(스포츠)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/127.png" />
+  </channel>
+  <channel id="63">
+    <display-name>STN(축구)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/194.png" />
+  </channel>
+  <channel id="64">
+    <display-name>M1글로벌(격투)</display-name>
+    <icon src="http://www.mmainterplay.com/wp-content/uploads/2015/03/MMA_InterplayLogo1-300x149.png" />
+  </channel>
+  <channel id="65">
+    <display-name>SBS골프(스포츠)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/167.png" />
+  </channel>
+  <channel id="66">
+    <display-name>JTBC골프(스포츠)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/98.png" />
+  </channel>
+  <channel id="67">
+    <display-name>Billiards(스포츠)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/20.png" />
+  </channel>
+  <channel id="68">
+    <display-name>MANIA REPORT(스포츠)</display-name>
+    <icon src="http://pimang.net/admin/data/push/64699842_2453.png" />
+  </channel>
+  <channel id="69">
+    <display-name>생활체육TV(스포츠)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/254.png" />
+  </channel>
+  <channel id="70">
+    <display-name>K바둑(바둑)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/304.png" />
+  </channel>
+  <channel id="71">
+    <display-name>브레인TV(장기/체스)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/251.png" />
+  </channel>
+  <channel id="72">
+    <display-name>YTN Weather(날씨)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/220.png" />
+  </channel>
+  <channel id="73">
+    <display-name>Kweather(날씨)</display-name>
+    <icon src="http://pimang.net/admin/data/push/95136330_2944.jpg" />
+  </channel>
+  <channel id="74">
+    <display-name>환경TV(환경)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/315.png" />
+  </channel>
+  <channel id="75">
+    <display-name>KTV(공공)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/22.png" />
+  </channel>
+  <channel id="76">
+    <display-name>HPBS여론방송(공공)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/306.png" />
+  </channel>
+  <channel id="77">
+    <display-name>KIDS TV(어린이)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/115.png" />
+  </channel>
+  <channel id="78">
+    <display-name>Kids channel(육아방송)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/271.png" />
+  </channel>
+  <channel id="79">
+    <display-name>HPBS여론방송(공공)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/306.png" />
+  </channel>
+  <channel id="80">
+    <display-name>대교어린이(어린이)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/228.png" />
+  </channel>
+  <channel id="81">
+    <display-name>애니프렌즈(어린이)</display-name>
+    <icon src="http://pimang.net/admin/data/push/71643211_2587.jpg" />
+  </channel>
+  <channel id="82">
+    <display-name>JEI잉글리시(교육)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/95.png" />
+  </channel>
+  <channel id="83">
+    <display-name>쉴라English DIAGRAM(영어)</display-name>
+    <icon src="http://pimang.net/admin/data/push/36928994_2157.jpg" />
+  </channel>
+  <channel id="84">
+    <display-name>토마토TV(증권)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/297.png" />
+  </channel>
+  <channel id="85">
+    <display-name>이데일리 TV(경제)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/272.png" />
+  </channel>
+  <channel id="86">
+    <display-name>한국경제(경제)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/303.png" />
+  </channel>
+  <channel id="87">
+    <display-name>매일경제TV(경제)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/241.png" />
+  </channel>
+  <channel id="88">
+    <display-name>머니투데이(경제)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/242.png" />
+  </channel>
+  <channel id="89">
+    <display-name>부동산TV</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/248.png" />
+  </channel>
+  <channel id="90">
+    <display-name>아시아경제</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/264.png" />
+  </channel>
+  <channel id="91">
+    <display-name>내외경제TV(경제)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/225.png" />
+  </channel>
+  <channel id="92">
+    <display-name>서울경제TV</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/255.png" />
+  </channel>
+  <channel id="93">
+    <display-name>법률방송(부동산/법률)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/246.png" />
+  </channel>
+  <channel id="94">
+    <display-name>매일경제 한방건강TV</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/241.png" />
+  </channel>
+  <channel id="95">
+    <display-name>KCTV(제주)</display-name>
+    <icon src="http://www.kctvjeju.com/images/common/kctv-ci-orange.png" />
+  </channel>
+  <channel id="96">
+    <display-name>KCTV DV(광주)</display-name>
+    <icon src="http://pimang.net/admin/data/push/32511340_6850.jpg" />
+  </channel>
+  <channel id="97">
+    <display-name>KCTV N(제주정보)</display-name>
+    <icon src="http://www.kctvjeju.com/images/common/kctv-ci-orange.png" />
+  </channel>
+  <channel id="98">
+    <display-name>tbs(공익)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/198.png" />
+  </channel>
+  <channel id="99">
+    <display-name>WTB 원주방송(공공)</display-name>
+    <icon src="http://pimang.net/admin/data/push/68203231_2938.jpg" />
+  </channel>
+  <channel id="100">
+    <display-name>텔레노벨라(예능)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/199.png" />
+  </channel>
+  <channel id="101">
+    <display-name>국립공원방송(공공)</display-name>
+    <icon src="http://tv.knps.or.kr/images/header/logo.gif" />
+  </channel>
+  <channel id="102">
+    <display-name>국회방송</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/223.png" />
+  </channel>
+  <channel id="103">
+    <display-name>국립공원방송(공공)</display-name>
+    <icon src="http://tv.knps.or.kr/images/header/logo.gif" />
+  </channel>
+  <channel id="104">
+    <display-name>CBS(종교)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/28.png" />
+  </channel>
+  <channel id="105">
+    <display-name>GOODTV(종교)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/83.png" />
+  </channel>
+  <channel id="106">
+    <display-name>CTS(종교)</display-name>
+    <icon src="http://pimang.net/admin/data/push/90543085_7050.jpg" />
+  </channel>
+  <channel id="107">
+    <display-name>C채널(종교)</display-name>
+    <icon src="http://pimang.net/admin/data/push/57362481_3055.jpg" />
+  </channel>
+  <channel id="108">
+    <display-name>CGNTV(종교)</display-name>
+    <icon src="http://pimang.net/admin/data/push/41950225_2927.jpg" />
+  </channel>
+  <channel id="109">
+    <display-name>한우리(종교)</display-name>
+    <icon src="http://pimang.net/admin/data/push/3381501_8297.jpg" />
+  </channel>
+  <channel id="110">
+    <display-name>amcTV(종교)</display-name>
+    <icon src="https://s3-ap-northeast-2.amazonaws.com/kmc.or.kr/wp-content/uploads/2016/07/03211207/kmc-logo.png" />
+  </channel>
+  <channel id="111">
+    <display-name>BBS(종교)</display-name>
+    <icon src="http://pimang.net/admin/data/push/94670788_4852.jpg" />
+  </channel>
+  <channel id="112">
+    <display-name>BTNTV(종교)</display-name>
+    <icon src="http://pimang.net/admin/data/push/9458777_5801.jpg" />
+  </channel>
+  <channel id="113">
+    <display-name>STB상생방송(종교)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/193.png" />
+  </channel>
+  <channel id="114">
+    <display-name>청소년영화제</display-name>
+    <icon src="http://pimang.net/admin/data/push/96560419_4079.jpg" />
+  </channel>
+  <channel id="115">
+    <display-name>BBS(종교)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/203.png" />
+  </channel>
+  <channel id="116">
+    <display-name>Trend</display-name>
+    <icon src="http://pimang.net/admin/data/push/94670788_4852.jpg" />
+  </channel>
+  <channel id="117">
+    <display-name>HCN(경북방송)</display-name>
+    <icon src="http://pimang.net/admin/data/push/16504037_1002.jpg" />
+  </channel>
+  <channel id="118">
+    <display-name>아리랑라디오방송</display-name>
+    <icon src="http://pimang.net/admin/data/push/85155857_8867.jpg" />
+  </channel>
+  <channel id="119">
+    <display-name>러브발라드(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/58279151_1398.jpg" />
+  </channel>
+  <channel id="120">
+    <display-name>추억의명곡(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/98408882_6556.jpg" />
+  </channel>
+  <channel id="121">
+    <display-name>클럽댄스뮤직(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/69670918_4184.jpg" />
+  </channel>
+  <channel id="122">
+    <display-name>블록버스터팝(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/69061034_7696.jpg" />
+  </channel>
+  <channel id="123">
+    <display-name>골든팝스다이얼(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/42068840_8323.jpg" />
+  </channel>
+  <channel id="124">
+    <display-name>다문화음악(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/37484250_1330.jpg" />
+  </channel>
+  <channel id="125">
+    <display-name>김기덕의골든팝(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/9450247_4067.jpg" />
+  </channel>
+  <channel id="126">
+    <display-name>락&하드코어(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/29020776_1799.jpg" />
+  </channel>
+  <channel id="127">
+    <display-name>영화음악실(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/45519324_3627.jpg" />
+  </channel>
+  <channel id="128">
+    <display-name>최신히트가요(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/28295950_8522.jpg" />
+  </channel>
+  <channel id="129">
+    <display-name>파티라운지(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/2640652_8594.jpg" />
+  </channel>
+  <channel id="130">
+    <display-name>오디션스타(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/54340480_6576.jpg" />
+  </channel>
+  <channel id="131">
+    <display-name>엠넷인기차트(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/68725756_8091.jpg" />
+  </channel>
+  <channel id="132">
+    <display-name>국악한마당(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/28807981_8939.jpg" />
+  </channel>
+  <channel id="133">
+    <display-name>트로트가요무대(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/75409758_3653.jpg" />
+  </channel>
+  <channel id="134">
+    <display-name>히트70-80(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/47678047_4585.jpg" />
+  </channel>
+  <channel id="135">
+    <display-name>히트80-90(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/36184347_1212.jpg" />
+  </channel>
+  <channel id="136">
+    <display-name>히트90-00(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/97971995_1472.jpg" />
+  </channel>
+  <channel id="137">
+    <display-name>주부애창가요(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/31121008_3180.jpg" />
+  </channel>
+  <channel id="138">
+    <display-name>오디오북채널(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/69535828_4372.jpg" />
+  </channel>
+  <channel id="139">
+    <display-name>TBS 95.1(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/15896756_7737.jpg" />
+  </channel>
+  <channel id="140">
+    <display-name>재즈스테이션(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/27900978_1045.jpg" />
+  </channel>
+  <channel id="141">
+    <display-name>홈클래식(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/18202023_6151.jpg" />
+  </channel>
+  <channel id="142">
+    <display-name>국악한마당(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/28807981_8939.jpg" />
+  </channel>
+  <channel id="143">
+    <display-name>엄마랑EQ동요(오디어채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/17858280_4544.jpg" />
+  </channel>
+  <channel id="144">
+    <display-name>재팬스테이션(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/65590901_3145.jpg" />
+  </channel>
+  <channel id="145">
+    <display-name>가톨릭음악(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/14131401_3779.jpg" />
+  </channel>
+  <channel id="146">
+    <display-name>헤븐터치CCM(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/4823255_3849.jpg" />
+  </channel>
+  <channel id="147">
+    <display-name>크리스찬음악(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/51690579_5305.jpg" />
+  </channel>
+  <channel id="148">
+    <display-name>불교음악(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/82142346_8047.jpg" />
+  </channel>
+  <channel id="149">
+    <display-name>TBS 101.3(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/23951348_6449.jpg" />
+  </channel>
+  <channel id="150">
+    <display-name>TBS 101.3(오디오채널)</display-name>
+    <icon src="http://pimang.net/admin/data/push/23951348_6449.jpg" />
+  </channel>
+  <channel id="151">
+    <display-name>PLAYBOY(19+++)</display-name>
+    <icon src="http://static.skylife.co.kr/upload/channel/201511/logo_playboytv.png" />
+  </channel>
+  <channel id="152">
+    <display-name>VIKI(19+++)</display-name>
+    <icon src="http://static.skylife.co.kr/upload/channel/201511/logo_viki.png" />
+  </channel>
+  <channel id="153">
+    <display-name>MIDNIGHT(19+++)</display-name>
+    <icon src="http://static.skylife.co.kr/upload/channel/201511/logo_midnight.png" />
+  </channel>
+  <channel id="154">
+    <display-name>HONEYS(19+++)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/309.png" />
+  </channel>
+  <channel id="155">
+    <display-name>penthouse(19+++)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/299.png" />
+  </channel>
+  <channel id="156">
+    <display-name>BUTGO(19+++)</display-name>
+    <icon src="http://imgcdn.pandora.tv/ptv_img/everyon_img/premium/ch_img_03.jpg" />
+  </channel>
+  <channel id="157">
+    <display-name>THEYAHAM(19+++)</display-name>
+    <icon src="http://imgcdn.pandora.tv/ptv_img/everyon_img/premium/ch_img_02.jpg" />
+  </channel>
+  <channel id="158">
+    <display-name>PLAYY(19+++)</display-name>
+    <icon src="https://s-media-cache-ak0.pinimg.com/564x/e1/0c/f5/e10cf57c0c761d1e1db2279edcb55566.jpg" />
+  </channel>
+  <channel id="159">
+    <display-name>GIRLSTV(19+++)</display-name>
+    <icon src="http://imgcdn.pandora.tv/ptv_img/everyon_img/premium/ch_img_05.jpg" />
+  </channel>
+  <channel id="160">
+    <display-name>SPICETV(19+++)</display-name>
+    <icon src="http://imgcdn.pandora.tv/ptv_img/everyon_img/premium/ch_img_04.jpg" />
+  </channel>
+  <channel id="161">
+    <display-name>TVJAPAN(19+++)</display-name>
+    <icon src="http://www.tvjapan.net/en/img/logo.png" />
+  </channel>
+  <channel id="162">
+    <display-name>SPOTV(스포츠)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/183.png" />
+  </channel>
+  <channel id="163">
+    <display-name>가요TV</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/221.png" />
+  </channel>
+  <channel id="164">
+    <display-name>O tvN(오락)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/147.png" />
+  </channel>
+  <channel id="165">
+    <display-name>KBS 독도 라이브</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/110.png" />
+  </channel>
+  <channel id="166">
+    <display-name>OGN(온게임넷)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/153.png" />
+  </channel>
+  <channel id="167">
+    <display-name>한국바둑</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/245.png" />
+  </channel>
+  <channel id="168">
+    <display-name>GMTV(가요)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/82.png" />
+  </channel>
+  <channel id="169">
+    <display-name>MBC드라마</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/128.png" />
+  </channel>
+  <channel id="170">
+    <display-name>MBC뮤직</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/124.png" />
+  </channel>
+  <channel id="171">
+    <display-name>SBS플러스</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/170.png" />
+  </channel>
+  <channel id="172">
+    <display-name>SBS펀</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/166.png" />
+  </channel>
+  <channel id="173">
+    <display-name>애니 플러스(애니)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/266.png" />
+  </channel>
+  <channel id="174">
+    <display-name>EBSi</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/58.png" />
+  </channel>
+  <channel id="175">
+    <display-name>EBS플러스2</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/59.png" />
+  </channel>
+  <channel id="176">
+    <display-name>KIDS1(어린이)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/296.png" />
+  </channel>
+  <channel id="177">
+    <display-name>CNN(영어)</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/46.png" />
+  </channel>
+  <channel id="178">
+    <display-name>EBSe</display-name>
+    <icon src="http://epg.neo365.net/Images/Channels/56.png" />
+  </channel>
+</tv>
