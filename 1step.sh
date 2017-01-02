@@ -36,4 +36,19 @@ echo "PVR 설치가 완료 되었습니다."
 echo ""
 echo "3초 후 Kodi IP TV Simple 을 설치 합니다."
 sleep 3
-
+sudo cp -rf -i ./lib /usr/local/
+sudo cp -rf -i ./share /usr/local/
+sleep 1
+echo "Kodi IP TV Simple 설치가 완료 되었습니다."
+echo ""
+echo "3초 후 Kodi IP TV Simple 채널 리스트를 설치 합니다."
+sleep 3
+sudo cp ./IPTV.m3u /home/pi/
+sudo cp ./epg.xml /home/pi/
+sleep 1
+echo "Kodi IP TV Simple 채널 리스트 설치가 완료 되었습니다."
+echo "설정의 방법은 WiKi 항목을 참조 해 주세요."
+echo ""
+echo "모든 설치가 완료 되었습니다. 적용을 위해 10초 후 재부팅 합니다."
+sleep 10
+reboot
