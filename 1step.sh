@@ -6,7 +6,7 @@ echo "3초 후 테마 한글화를 실행 합니다."
 sleep 3
 cd /home/pi/Retro-AutoSet
 chmod 755 *sh
-./Localization.sh
+./01.Localization.sh
 sleep 1
 echo "테마 한글화가 완료 되었습니다."
 echo ""
