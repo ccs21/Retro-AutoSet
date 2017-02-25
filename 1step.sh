@@ -39,6 +39,8 @@ echo "3초 후 Kodi IP TV Simple 채널 리스트를 설치 합니다."
 sleep 3
 sudo cp -f ./IPTV.m3u /home/pi/
 sudo cp -f ./epg.xml /home/pi/
+sudo cp -f ./Update.sh /home/pi/RetroPie/ROMS/KODI/
+chmod 755 /home/pi/RetroPie/ROMS/KODI/Update.sh
 sleep 1
 echo "Kodi IP TV Simple 채널 리스트 설치가 완료 되었습니다."
 echo "설정의 방법은 WiKi 항목을 참조 해 주세요."

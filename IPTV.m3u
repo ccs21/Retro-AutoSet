@@ -1,347 +1,50 @@
-#EXTM3U
-#EXTINF:-1, MBC(지상파/종편)
-http://175.198.55.161:8871/MBC_H
-#EXTINF:-1, KBS1(지상파/종편)
-http://175.198.55.161:8871/KBS1_H
-#EXTINF:-1, KBS2(지상파/종편)
-http://175.198.55.161:8871/KBS2_H
-#EXTINF:-1, SBS(지상파/종편)
-http://175.198.55.161:8871/SBS_H
-#EXTINF:-1, EBS(지상파/종편)
-http://175.198.55.161:8871/EBS_H
-#EXTINF:-1, EBS2
-http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1, JTBC(지상파/종편)
-http://175.198.55.161:8871/JTBC_H
-#EXTINF:-1, MBN(지상파/종편)
-http://175.198.55.161:8871/MBN_H
-#EXTINF:-1, 채널A(지상파/종편)
-http://175.198.55.161:8871/CHANNELA_H
-#EXTINF:-1, TV조선(지상파/종편)
-http://175.198.55.161:8871/TVCHOSUN_H
-#EXTINF:-1, 연합뉴스(지상파/종편)
-http://175.198.55.161:8871/YTN_H
-#EXTINF:-1, YTN(지상파/종편)
-http://lgedge1.everyon.tv/lgetv1/phd1110/playlist.m3u8
-#EXTINF:-1, KBS 독도 라이브
-http://kbs-dokdo.gscdn.com/dokdo_800/_definst_/dokdo_800.stream/playlist.m3u8
-#EXTINF:-1, OBS(지상파/종편)
-http://edge2.everyon.tv/etv2sb/phd1042/chunklist_w312619350.m3u8
-#EXTINF:-1, SBSCNBC(지상파/종편)
-http://175.198.55.161:8871/CNBC_H
-#EXTINF:-1, EBSi
-http://1.214.67.28/vod/71401.m3u8
-#EXTINF:-1, EBS플러스2
-http://1.214.67.28/vod/71501.m3u8
-#EXTINF:-1, EBSe
-http://1.214.67.28/vod/80101.m3u8
-#EXTINF:-1, 롯데홈쇼핑
-http://edge2.everyon.tv:1935/etv2sb/phd707/HasBahCa.m3u8
-#EXTINF:-1, OGN(온게임넷)
-http://1.214.67.28/vod/68101.m3u8
-#EXTINF:-1, TVN
-http://175.198.55.161:8871/TVN_H
-#EXTINF:-1, ONSTYLE
-http://1.214.67.28/vod/77801.m3u8
-#EXTINF:-1, OLIVE
-http://1.214.67.28/vod/69601.m3u8
-#EXTINF:-1, XTM
-http://1.214.67.28/vod/67101.m3u8
-#EXTINF:-1, 슈퍼액션(영화/시리즈)
-http://175.198.55.161:8871/SUPERACTION_H
-#EXTINF:-1, OCN(영화/시리즈)
-http://175.198.55.161:8871/OCN_H
-#EXTINF:-1, PLAYY웰메이드(영화)
-http://edge2.everyon.tv:1935/etv2sb/phd770/HasBahCa.m3u8
-#EXTINF:-1, PLAYY프리미엄(영화)
-http://edge2.everyon.tv:1935/etv2sb/phd743/HasBahCa.m3u8
-#EXTINF:-1, THE MOVIE
-http://edge2.everyon.tv:1935/etv2sb/phd8/HasBahCa.m3u8
-#EXTINF:-1, MBC드라마
-http://1.214.67.28/vod/62101.m3u8
-#EXTINF:-1, SBS플러스
-http://1.214.67.28/vod/61201.m3u8
-#EXTINF:-1, 채널차이나(영화/드라마)
-rtmp://edge1.everyon.tv/etv1/phd1016
-#EXTINF:-1, 케이블TV VOD
-rtmp://edge1.everyon.tv/etv1/phd101
-#EXTINF:-1, 드라마방송(드라마)
-http://123.108.164.71/etv2/phd847/playlist.m3u8
-#EXTINF:-1, CHING(드라마)
-rtmp://edge1.everyon.tv:1935/etv1sb/phd7
-#EXTINF:-1, 아시아N(아시아드라마)
-http://edge2.everyon.tv/etv2/phd433/HasBahCa.m3u8
-#EXTINF:-1, MBC뮤직
-http://1.214.67.28/vod/62401.m3u8
-#EXTINF:-1, Mnet(음악)
-http://175.198.55.161:8871/MNET_H
-#EXTINF:-1, 아이넷 TV(성인가요)
-rtmp://edge2.everyon.tv/etv2sb/phd263
-#EXTINF:-1, 가요TV
-http://main1.everyon.tv:1935/etv1/_definst_/phd273/playlist.m3u8
-#EXTINF:-1, GMTV(가요)
-http://1.214.67.28/vod/68801.m3u8
-#EXTINF:-1, (음악)
-http://wshdl.load.cdn.zhanqi.tv/zqlive/1285_Zloy4.flv
-#EXTINF:-1, SBS펀
-http://1.214.67.28/vod/61501.m3u8
-#EXTINF:-1, O tvN(오락)
-http://121.156.62.136:1935/chc09/s5.stream/playlist.m3u8
-#EXTINF:-1, MBCEVERYONE(연예)
-http://1.214.67.28/vod/62601.m3u8
-#EXTINF:-1, ETN (연예전문채널)
-http://123.108.164.71/etv2sb/phd2/playlist.m3u8
-#EXTINF:-1, C`TIME(예능)
-http://edge2.everyon.tv:1935/etv2sb/phd21/HasBahCa.m3u8
-#EXTINF:-1, 런닝맨모음(예능)
-http://dlhls.cdn.zhanqi.tv/zqlive/34822_KA3zE.m3u8
-#EXTINF:-1, 채널A플러스(연예)
-http://edge2.everyon.tv:1935/etv2sb/phd409/HasBahCa.m3u8
-#EXTINF:-1, 에이핑크뉴스(연예)
-http://edge2.everyon.tv:1935/etv2sb/phd984/HasBahCa.m3u8
-#EXTINF:-1, CMCTV(오락채널)
-rtmp://edge1.everyon.tv:1935/etv1sb/phd1
-#EXTINF:-1, TRENDY TV(예능)
-http://123.108.164.71/etv2sb/phd4/playlist.m3u8
-#EXTINF:-1, 텔레노벨라(예능)
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld319
-#EXTINF:-1, KBS World
-rtmp://118.97.183.196/jhos//kbs
-#EXTINF:-1, 동아TV
-http://123.108.164.71/etv2sb/phd43/playlist.m3u8
-#EXTINF:-1, 리얼TV
-rtmp://123.108.164.71/etv2sb/phd1065
-#EXTINF:-1, 엣지 TV
-http://lgedge1.everyon.tv/lgetv1/phd1122/playlist.m3u8
-#EXTINF:-1, OBS W(다큐)
-http://111.118.21.79/etv1sb/phd3/playlist.m3u8
-#EXTINF:-1, 마운틴TV
-http://123.108.164.71/etv2sb/phd337/playlist.m3u8
-#EXTINF:-1, Food TV
-http://edge1.everyon.tv/etv1sb/phd1015/playlist.m3u8
-#EXTINF:-1, 쿠키건강TV
-rtmp://edge2.everyon.tv/etv2/phd24
-#EXTINF:-1, 레시피 코리아(요리)
-http://edge2.everyon.tv:1935/etv2sb/phd1053/HasBahCa.m3u8
-#EXTINF:-1, 아리랑TV(글로벌)
-http://amdlive.ctnd.com.edgesuite.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1, YTN science(과학)
-rtmp://123.108.164.71/etv2sb/phd863
-#EXTINF:-1, ARTE아르떼(문화예술)
-rtmp://edge1.everyon.tv/etv1/phd35
-#EXTINF:-1, TV IS
-http://111.118.21.79/etv1sb/phd551/playlist.m3u8
-#EXTINF:-1, FTV(낚시)
-rtmp://edge2.everyon.tv/etv2/phd12
-#EXTINF:-1, 폴라리스(여행)
-http://edge2.everyon.tv:1935/etv2sb/phd14/HasBahCa.m3u8
-#EXTINF:-1, ONT(레저/다큐)
-http://edge2.everyon.tv:1935/etv2sb/phd30/HasBahCa.m3u8
-#EXTINF:-1, 리빙 TV(레저)
-http://edge2.everyon.tv:1935/etv2sb/phd13/HasBahCa.m3u8
-#EXTINF:-1, EVENT TV
-http://123.108.164.71/etv2sb/phd389/playlist.m3u8
-#EXTINF:-1, 소비자TV(생활정보)
-http://edge2.everyon.tv/etv2/phd77/HasBahCa.m3u8
-#EXTINF:-1, 대한민국 클린 콘텐츠
-http://edge2.everyon.tv/etv2/phd1046/HasBahCa.m3u8
-#EXTINF:-1, SPOTV(스포츠)
-http://1.214.67.28/vod/66701.m3u8
-#EXTINF:-1, MBC스포츠2(스포츠)
-http://175.198.55.161:8871/EBS1_H
-#EXTINF:-1, STN(축구)
-http://edge2.everyon.tv:1935/etv2sb/phd861/HasBahCa.m3u8
-#EXTINF:-1, M1글로벌(격투)
-rtmp://edge1.everyon.tv/etv1/phd1020
-#EXTINF:-1, SBS골프(스포츠)
-http://175.198.55.161:8871/SBSGOLF_H
-#EXTINF:-1, JTBC골프(스포츠)
-http://175.198.55.161:8871/JGOLF_H
-#EXTINF:-1, Billiards(스포츠)
-rtmp://edge1.everyon.tv:1935/etv1sb/phd191
-#EXTINF:-1, MANIA REPORT(스포츠)
-http://edge2.everyon.tv:1935/etv2sb/phd741/HasBahCa.m3u8
-#EXTINF:-1, 생활체육TV(스포츠)
-rtmp://edge2.everyon.tv/etv2/phd253
-#EXTINF:-1, K바둑(바둑)
-rtmp://edge1.everyon.tv/etv1/phd207
-#EXTINF:-1, 한국바둑
-http://1.214.67.28/vod/68301.m3u8
-#EXTINF:-1, 브레인TV(장기/체스)
-rtmp://edge1.everyon.tv:1935/etv1sb/phd381
-#EXTINF:-1, YTN Weather(날씨)
-http://123.108.164.71/etv2sb/phd193/playlist.m3u8
-#EXTINF:-1, Kweather(날씨)
-http://edge2.everyon.tv:1935/etv2sb/phd581/HasBahCa.m3u8
-#EXTINF:-1, 환경TV(환경)
-rtmp://edge1.everyon.tv/etv1/phd195
-#EXTINF:-1, KTV(공공)
-http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
-#EXTINF:-1, HPBS여론방송(공공)
-http://123.108.164.71/etv2/phd983/playlist.m3u8
-#EXTINF:-1, 애니 플러스(애니)
-http://1.214.67.28/vod/69901.m3u8
-#EXTINF:-1, KIDS TV(어린이)
-http://123.108.164.71/etv2/phd1043/playlist.m3u8
-#EXTINF:-1, KIDS1(어린이)
-http://1.214.67.28/vod/72801.m3u8
-#EXTINF:-1, Kids channel(육아방송)
-rtmp://edge2.everyon.tv:80/etv2sb/phd42
-#EXTINF:-1, 대교어린이(어린이)
-rtmp://edge1.everyon.tv/etv1sb/phd5
-#EXTINF:-1, 애니프렌즈(어린이)
-http://edge2.everyon.tv:1935/etv2sb/phd933/HasBahCa.m3u8
-#EXTINF:-1, JEI잉글리시(교육)
-http://175.198.55.161:8871/JEI_H
-#EXTINF:-1, 쉴라English DIAGRAM(영어)
-rtmp://edge1.everyon.tv:1935/etv1sb/phd1021
-#EXTINF:-1, CNN(영어)
-http://1.214.67.28/vod/72901.m3u8
-#EXTINF:-1, 토마토TV(증권)
-rtmp://edge1.everyon.tv/etv1sb/phd25
-#EXTINF:-1, 이데일리 TV(경제)
-http://edge2.everyon.tv:1935/etv2sb/phd23/HasBahCa.m3u8
-#EXTINF:-1, 한국경제(경제)
-rtmp://edge2.everyon.tv/etv2sb/phd26
-#EXTINF:-1, 매일경제TV(경제)
-rtmp://edge1.everyon.tv:1935/etv1sb/phd563
-#EXTINF:-1, 머니투데이(경제)
-http://111.118.21.79/etv1sb/phd18/playlist.m3u8
-#EXTINF:-1, 부동산TV
-http://111.118.21.79/etv1sb/phd19/playlist.m3u8
-#EXTINF:-1, 아시아경제
-http://111.118.21.79/etv1sb/phd385/playlist.m3u8
-#EXTINF:-1, 내외경제TV(경제)
-rtmp://edge2.everyon.tv/etv2sb/phd639
-#EXTINF:-1, 서울경제TV
-rtmp://edge2.everyon.tv/etv2sb/phd22
-#EXTINF:-1, 법률방송(부동산/법률)
-rtmp://edge1.everyon.tv/etv1/phd33
-#EXTINF:-1, 매일경제 한방건강TV
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld725
-#EXTINF:-1, KCTV(제주)
-http://122.202.129.136:1935/live/ch5/playlist.m3u8
-#EXTINF:-1, KCTV DV(광주)
-http://111.118.21.79/etv1/phd555/playlist.m3u8
-#EXTINF:-1, KCTV N(제주정보)
-http://122.202.129.136:1935/live/ch4/playlist.m3u8
-#EXTINF:-1, tbs(공익)
-http://123.108.164.71/etv2sb/phd40/playlist.m3u8
-#EXTINF:-1, WTB 원주방송(공공)
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld755
-#EXTINF:-1, 국립공원방송(공공)
-http://edge2.everyon.tv:1935/etv2sb/phd851/HasBahCa.m3u8
-#EXTINF:-1, 국회방송
-http://edge2.everyon.tv:1935/etv2sb/phd401/HasBahCa.m3u8
-#EXTINF:-1, CBS(종교)
-http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
-#EXTINF:-1, GOODTV(종교)
-http://123.108.164.71/etv2sb/phd29/playlist.m3u8
-#EXTINF:-1, CTS(종교)
-http://111.118.21.79/etv1/phd28/playlist.m3u8
-#EXTINF:-1, C채널(종교)
-rtmp://edge1.everyon.tv/etv1/phd335
-#EXTINF:-1, CGNTV(종교)
-rtmp://edge2.everyon.tv/etv2/phd235
-#EXTINF:-1, 한우리(종교)
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld897
-#EXTINF:-1, amcTV(종교)
-http://edge2.everyon.tv/etv2/phd873/HasBahCa.m3u8
-#EXTINF:-1, BBS(종교)
-rtmp://edge1.everyon.tv/etv1/phd553
-#EXTINF:-1, BTNTV(종교)
-http://edge2.everyon.tv/etv2/phd34/HasBahCa.m3u8
-#EXTINF:-1, STB상생방송(종교)
-http://edge2.everyon.tv:1935/etv2sb/phd38/HasBahCa.m3u8
-#EXTINF:-1, 청소년영화제
-http://edge2.everyon.tv:1935/etv2sb/phd1025/HasBahCa.m3u8
-#EXTINF:-1,Trend
-http://123.108.164.71/etv2sb/pld4/lihattv.m3u8
-#EXTINF:-1, HCN(경북방송)
-rtmp://edge1.everyon.tv/etv1/phd778
-#EXTINF:-1, 아리랑라디오방송
-http://edge2.everyon.tv/etv2/phd1019/HasBahCa.m3u8
-#EXTINF:-1, 러브발라드(오디오채널)
-http://edge2.everyon.tv/etv2/phd295/HasBahCa.m3u8
-#EXTINF:-1, 추억의명곡(오디오채널)
-http://edge2.everyon.tv/etv2/phd299/HasBahCa.m3u8
-#EXTINF:-1, 클럽댄스뮤직(오디오채널)
-http://edge2.everyon.tv/etv2/phd365/HasBahCa.m3u8
-#EXTINF:-1, 블록버스터팝(오디오채널)
-http://edge2.everyon.tv/etv2/phd667/HasBahCa.m3u8
-#EXTINF:-1, 골든팝스다이얼(오디오채널)
-http://edge2.everyon.tv/etv2/phd669/HasBahCa.m3u8
-#EXTINF:-1, 다문화음악(오디오채널)
-http://edge2.everyon.tv/etv2/phd671/HasBahCa.m3u8
-#EXTINF:-1, 김기덕의골든팝(오디오채널)
-http://edge2.everyon.tv/etv2/phd673/HasBahCa.m3u8
-#EXTINF:-1, 락&하드코어(오디오채널)
-http://edge2.everyon.tv/etv2/phd675/HasBahCa.m3u8
-#EXTINF:-1, 영화음악실(오디오채널)
-http://edge2.everyon.tv/etv2/phd677/HasBahCa.m3u8
-#EXTINF:-1, 최신히트가요(오디오채널)
-http://edge2.everyon.tv/etv2/phd685/HasBahCa.m3u8
-#EXTINF:-1, 파티라운지(오디오채널)
-http://edge2.everyon.tv/etv2/phd701/HasBahCa.m3u8
-#EXTINF:-1, 오디션스타(오디오채널)
-http://edge2.everyon.tv/etv2/phd297/HasBahCa.m3u8
-#EXTINF:-1, 엠넷인기차트(오디오채널)
-http://edge2.everyon.tv/etv2/phd357/HasBahCa.m3u8
-#EXTINF:-1, 국악한마당(오디오채널)
-http://edge2.everyon.tv/etv2/phd363/HasBahCa.m3u8
-#EXTINF:-1, 트로트가요무대(오디오채널)
-http://edge2.everyon.tv/etv2/phd665/HasBahCa.m3u8
-#EXTINF:-1, 히트70-80(오디오채널)
-http://edge2.everyon.tv/etv2/phd683/HasBahCa.m3u8
-#EXTINF:-1, 히트80-90(오디오채널)
-http://edge2.everyon.tv/etv2/phd679/HasBahCa.m3u8
-#EXTINF:-1, 히트90-00(오디오채널)
-http://edge2.everyon.tv/etv2/phd681/HasBahCa.m3u8
-#EXTINF:-1, 주부애창가요(오디오채널)
-http://edge2.everyon.tv/etv2/phd697/HasBahCa.m3u8
-#EXTINF:-1, 오디오북채널(오디오채널)
-http://edge2.everyon.tv/etv2/phd705/HasBahCa.m3u8
-#EXTINF:-1, TBS 95.1(오디오채널)
-http://edge2.everyon.tv/etv2/phd856/HasBahCa.m3u8
-#EXTINF:-1, TBS 101.3(오디오채널)
-http://edge2.everyon.tv/etv2/phd857/HasBahCa.m3u8
-#EXTINF:-1, 재즈스테이션(오디오채널)
-http://edge2.everyon.tv/etv2/phd359/HasBahCa.m3u8
-#EXTINF:-1, 홈클래식(오디오채널)
-http://edge2.everyon.tv/etv2/phd361/HasBahCa.m3u8
-#EXTINF:-1, 국악한마당(오디오채널)
-http://edge2.everyon.tv/etv2/phd695/HasBahCa.m3u8
-#EXTINF:-1, 엄마랑EQ동요(오디어채널)
-http://edge2.everyon.tv/etv2/phd703/HasBahCa.m3u8
-#EXTINF:-1, 재팬스테이션(오디오채널)
-http://edge2.everyon.tv/etv2/phd687/HasBahCa.m3u8
-#EXTINF:-1, 가톨릭음악(오디오채널)
-http://edge2.everyon.tv/etv2/phd689/HasBahCa.m3u8
-#EXTINF:-1, 헤븐터치CCM(오디오채널)
-http://edge2.everyon.tv/etv2/phd437/HasBahCa.m3u8
-#EXTINF:-1, 크리스찬음악(오디오채널)
-http://edge2.everyon.tv/etv2/phd691/HasBahCa.m3u8
-#EXTINF:-1, 불교음악(오디오채널)
-http://edge2.everyon.tv/etv2/phd693/HasBahCa.m3u8
-#EXTINF:-1, PLAYBOY(19+++)
-http://123.108.164.110/etv1sb/phd10497/playlist.m3u8
-#EXTINF:-1, VIKI(19+++)
-http://123.108.164.110/etv1sb/phd10765/playlist.m3u8
-#EXTINF:-1, MIDNIGHT(19+++)
-http://123.108.164.110/etv1sb/phd10766/playlist.m3u8
-#EXTINF:-1, HONEYS(19+++)
-http://123.108.164.110/etv1sb/phd10928/playlist.m3u8
-#EXTINF:-1, penthouse(19+++)
-http://123.108.164.110/etv1sb/phd10927/playlist.m3u8
-#EXTINF:-1, BUTGO(19+++)
-http://edge2.everyon.tv:1935/etv2sb/phd10772/playlist.m3u8
-#EXTINF:-1, THEYAHAM(19+++)
-http://edge2.everyon.tv:1935/etv2sb/phd10771/playlist.m3u8
-#EXTINF:-1, PLAYY(19+++)
-http://edge2.everyon.tv:1935/etv2sb/phd10769/playlist.m3u8
-#EXTINF:-1,GIRLSTV(19+++)
-http://edge2.everyon.tv:1935/etv2sb/phd10501/playlist.m3u8
-#EXTINF:-1, SPICETV(19+++)
-http://edge2.everyon.tv:1935/etv2sb/phd10499/playlist.m3u8
-#EXTINF:-1, TVJAPAN(19+++)
-http://edge2.everyon.tv:1935/etv2sb/phd10062/playlist.m3u8
+#EXTINF:-1,KOR : TVN
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2854.ts
+#EXTINF:-1,KOR : TV CHOSUN
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2853.ts
+#EXTINF:-1,KOR : STAR 2
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2852.ts
+#EXTINF:-1,KOR : SBS SPORTS
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2851.ts
+#EXTINF:-1,KOR : SBS GOLF
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2850.ts
+#EXTINF:-1,KOR : SBS
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2849.ts
+#EXTINF:-1,KOR : O'LIVE
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2848.ts
+#EXTINF:-1,KOR : MBC SPORTS
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2847.ts
+#EXTINF:-1,KOR : MBC
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2846.ts
+#EXTINF:-1,KOR : M NET
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2845.ts
+#EXTINF:-1,KOR : KBS SPORTS
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2844.ts
+#EXTINF:-1,KOR : KBS 2
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2843.ts
+#EXTINF:-1,KOR : KBS 1
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2842.ts
+#EXTINF:-1,KOR : K-BADUK
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2841.ts
+#EXTINF:-1,KOR : JTBC
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2840.ts
+#EXTINF:-1,KOR : JEI TV
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2839.ts
+#EXTINF:-1,KOR : JAY SPORTS 3
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2838.ts
+#EXTINF:-1,KOR : JAY SPORTS 2
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2837.ts
+#EXTINF:-1,KOR : JAY SPORTS
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2836.ts
+#EXTINF:-1,KOR : FTV
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2835.ts
+#EXTINF:-1,KOR : EBS 1
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2830.ts
+#EXTINF:-1,KOR : DISNEY CHANNEL KOREA
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2834.ts
+#EXTINF:-1,KOR : CHANNEL A
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2833.ts
+#EXTINF:-1,KOR : CGN TV
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2832.ts
+#EXTINF:-1,KOR : ANIMAX KOREA
+http://iptvfree1.com:6969/live/14/WWW.IPTVRESTREAM.NET/2831.ts
